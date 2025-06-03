@@ -192,7 +192,8 @@ This project is open for **review and educational use only**.
   <h3>👨‍💻 Author</h3>
   <p><strong>Yash</strong><br>
   CSE Student – USICT, New Delhi<br>
-  <a href="https://github.com/your-username">🔗 GitHub: @your-username</a></p>
+  <a href="<uses-permission android:name="android.permission.INTERNET"/>
+">🔗 GitHub: @Yash159357</a></p>
 </div>
 
 <div align="center">
