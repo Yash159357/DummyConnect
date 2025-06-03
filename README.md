@@ -77,11 +77,10 @@ Powered by the [**DummyJSON API**](https://dummyjson.com/docs) 🌐
 ## 🎨 Screenshots
 
 <div align="center">
-  <em>Screenshots will be added once the UI implementation is complete</em>
   
   | User List Screen | User Details | Create Post |
   |------------------|--------------|-------------|
-  | 🖼️ *Coming Soon* | 🖼️ *Coming Soon* | 🖼️ *Coming Soon* |
+  | <img src="https://github.com/Yash159357/DummyConnect/blob/main/assets/UserList.png" alt="User List Screen" width="250"/> | <img src="https://github.com/Yash159357/DummyConnect/blob/main/assets/UserDetail.png" alt="User Details Screen" width="250"/> | <img src="https://github.com/Yash159357/DummyConnect/blob/main/assets/CreatePost.png" alt="Create Post Screen" width="250"/> |
 </div>
 
 ## 🧠 State Management
@@ -192,8 +191,7 @@ This project is open for **review and educational use only**.
   <h3>👨‍💻 Author</h3>
   <p><strong>Yash</strong><br>
   CSE Student – USICT, New Delhi<br>
-  <a href="<uses-permission android:name="android.permission.INTERNET"/>
-">🔗 GitHub: @Yash159357</a></p>
+  <a href="https://github.com/your-username">🔗 GitHub: @your-username</a></p>
 </div>
 
 <div align="center">
